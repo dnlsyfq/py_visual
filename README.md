@@ -21,3 +21,4 @@ style.use('Solarize_Light2')
 plt.plot([1, 2, 3], [5, 2, 7])
 plt.show()
 ```
+
